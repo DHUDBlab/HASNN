@@ -59,10 +59,11 @@ python main.py --dataset Patent
 ```python
 python main.py \
 --dataset dblp \
---hids 128 10 \
+--hids 512 64 \
 --batch_size 1024 \
---p 0.5 \
---train_size 0.4
+--p 0.3 \
+--train_size 0.6 \
+--dropout 0.7
 ```
 
 #### Reference
