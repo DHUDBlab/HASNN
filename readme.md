@@ -1,6 +1,6 @@
 #### HASNN
 HASNN: Hierarchical Attention Spiking Neural Network for Dynamic
-Graph Representation Learning(Expert Systems With Applications)
+Graph Representation Learning(Knowledge-Based Systems)
 
 ![framework](https://github.com/DHUDBlab/HASNN/blob/main/fig2.png)
 
@@ -54,7 +54,7 @@ python main.py --dataset Tmall
 python main.py --dataset Patent
 ```
 
-#### **parameter example**
+#### **Parameter example**
 
 ```python
 python main.py \
@@ -65,7 +65,7 @@ python main.py \
 --train_size 0.4
 ```
 
-#### cite
+#### Reference
 
 ```
 @article{gan2026hasnn,
