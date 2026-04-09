@@ -2,7 +2,7 @@
 HASNN: Hierarchical Attention Spiking Neural Network for Dynamic
 Graph Representation Learning(Expert Systems With Applications)
 
-![fig2](C:\Users\17749\Desktop\thesis\addition_pic\fig2.png)
+![framework](https://example.com/image.png)
 
 #### Datasets
 
